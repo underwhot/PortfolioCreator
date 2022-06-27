@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <link rel="stylesheet" href="css/swiper-bundle.min.css">
+  <link rel="stylesheet" href="css/fancybox.css">
+  <link rel="stylesheet" href="css/style.css">
+  <title>Portfolio Creator | Delight and inspire people</title>
+</head>
+
+<body>
+  <div class="wrapper">
+    <!-- @import "header.html" -->
+    <div class="mainblock top">
+      <div class="mainblock__container container">
+        <div class="mainblock__body">
+          <div class="mainblock__column mainblock__column_big">
+            <div class="mainblock__content">
+              <div class="mainblock__title"><span>I design products</span> that delight and inspire people.</div>
+              <div class="mainblock__text">Hi! I’m Jake, a product designer based in Berlin. I create user-friendly
+                interfaces for fast-growing startups.</div>
+              <div class="mainblock__buttons">
+                <a href="#footer" class="mainblock__button btn">Book a call</a>
+                <a href="#" class="mainblock__button btn-trans"><span>Download CV</span></a>
+              </div>
+            </div>
+          </div>
+          <div class="mainblock__column mainblock__column_small">
+            <div class="mainblock__foto">
+              <div class="mainblock__image ibg">
+                <img src="img/mainblock/01.png" alt="">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="trusted top">
+      <div class="trusted__container container">
+        <div class="trusted__title">Trusted by</div>
+        <div class="trusted__body">
+          <div class="trusted__row">
+            <div class="trusted__column">
+              <div class="trusted__item">
+                <div class="trusted__image">
+                  <img src="img/trusted/01.png" alt="">
+                </div>
+              </div>
+            </div>
+            <div class="trusted__column">
+              <div class="trusted__item">
+                <div class="trusted__image">
+                  <img src="img/trusted/02.png" alt="">
+                </div>
+              </div>
+            </div>
+            <div class="trusted__column">
+              <div class="trusted__item">
+                <div class="trusted__image">
+                  <img src="img/trusted/03.png" alt="">
+                </div>
+              </div>
+            </div>
+            <div class="trusted__column">
+              <div class="trusted__item">
+                <div class="trusted__image">
+                  <img src="img/trusted/04.png" alt="">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="services top">
+      <div class="services__container container">
+        <div class="services__top">
+          <div class="services__subtitle subtitle">Services</div>
+          <div class="services__title title">Design that solves problems, one product at a time.</div>
+        </div>
+        <div class="services__body">
+          <div class="services__column">
+            <div class="services__card card-services">
+              <div class="card-services__body">
+                <div class="card-services__icon"><img src="img/services/01.svg" alt=""></div>
+                <div class="card-services__title">What I can do for you</div>
+                <div class="card-services__text">Faster, better products that your users love. Here's all the services I
+                  provide:</div>
+                <ul class="card-services__list">
+                  <li class="card-services__item">Design Strategy</li>
+                  <li class="card-services__item">Web and Mobile App Design</li>
+                  <li class="card-services__item">Front-end Development</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="services__column">
+            <div class="services__card card-services">
+              <div class="card-services__body">
+                <div class="card-services__icon"><img src="img/services/02.svg" alt=""></div>
+                <div class="card-services__title">Applications I'm fluent in</div>
+                <div class="card-services__text">Every designer needs the right tools to do the perfect job. Thankfully,
+                  I'm multilingual.</div>
+                <ul class="card-services__list">
+                  <li class="card-services__item">Sketch</li>
+                  <li class="card-services__item">Webflow</li>
+                  <li class="card-services__item">Figma</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="services__column">
+            <div class="services__card card-services">
+              <div class="card-services__body">
+                <div class="card-services__icon"><img src="img/services/03.svg" alt=""></div>
+                <div class="card-services__title">What you can expect</div>
+                <div class="card-services__text">I design products that are more than pretty. I make them shippable and
+                  usable.</div>
+                <ul class="card-services__list">
+                  <li class="card-services__item">Clean and functional</li>
+                  <li class="card-services__item">Device and user friendly</li>
+                  <li class="card-services__item">Efficient and maintainable</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="projects">
+      <div class="projects__container container">
+        <div class="projects__top">
+          <div class="projects__item">
+            <div class="projects__subtitle subtitle">PROJECTS</div>
+            <div class="projects__title title">
+              <p>I bring results.</p>
+              <p>My clients are proof.</p>
+            </div>
+          </div>
+          <a href="#" class="projects__button btn">View all projects</a>
+        </div>
+        <div class="projects__body">
+
+          <div class="projects__slider slider-projects">
+            <div class="slider-projects__wrapper swiper-wrapper">
+              <!-- Slides -->
+              <div class="slider-projects__slide swiper-slide">
+                <a href="#" class="slider-projects__card">
+                  <div class="slider-projects__image ibg">
+                    <img src="img/projects/01.jpg" alt="">
+                  </div>
+                  <div class="slider-projects__content">
+                    <div class="slider-projects__subtitle">Branding</div>
+                    <div class="slider-projects__title">Soulful Rebrand</div>
+                    <div class="slider-projects__link">View Project</div>
+                  </div>
+                </a>
+              </div>
+              <div class="slider-projects__slide swiper-slide">
+                <a href="#" class="slider-projects__card">
+                  <div class="slider-projects__image ibg">
+                    <img src="img/projects/02.jpg" alt="">
+                  </div>
+                  <div class="slider-projects__content">
+                    <div class="slider-projects__subtitle">Product Design</div>
+                    <div class="slider-projects__title">Datadash Product design</div>
+                    <div class="slider-projects__link">View Project</div>
+                  </div>
+                </a>
+              </div>
+              <div class="slider-projects__slide swiper-slide">
+                <a href="#" class="slider-projects__card">
+                  <div class="slider-projects__image ibg">
+                    <img src="img/projects/03.jpg" alt="">
+                  </div>
+                  <div class="slider-projects__content">
+                    <div class="slider-projects__subtitle">Web Design</div>
+                    <div class="slider-projects__title">Maize Website Design</div>
+                    <div class="slider-projects__link">View Project</div>
+                  </div>
+                </a>
+              </div>
+              <div class="slider-projects__slide swiper-slide">
+                <a href="#" class="slider-projects__card">
+                  <div class="slider-projects__image ibg">
+                    <img src="img/projects/04.jpg" alt="">
+                  </div>
+                  <div class="slider-projects__content">
+                    <div class="slider-projects__subtitle">Branding</div>
+                    <div class="slider-projects__title">Soulful Rebrand</div>
+                    <div class="slider-projects__link">View Project</div>
+                  </div>
+                </a>
+              </div>
+              <div class="slider-projects__slide swiper-slide">
+                <a href="#" class="slider-projects__card">
+                  <div class="slider-projects__image ibg">
+                    <img src="img/projects/05.jpg" alt="">
+                  </div>
+                  <div class="slider-projects__content">
+                    <div class="slider-projects__subtitle">Product Design</div>
+                    <div class="slider-projects__title">Datadash Product design</div>
+                    <div class="slider-projects__link">View Project</div>
+                  </div>
+                </a>
+              </div>
+              <div class="slider-projects__slide swiper-slide">
+                <a href="#" class="slider-projects__card">
+                  <div class="slider-projects__image ibg">
+                    <img src="img/projects/06.jpg" alt="">
+                  </div>
+                  <div class="slider-projects__content">
+                    <div class="slider-projects__subtitle">Web Design</div>
+                    <div class="slider-projects__title">Maize Website Design</div>
+                    <div class="slider-projects__link">View Project</div>
+                  </div>
+                </a>
+              </div>
+            </div>
+            <div class="slider-projects__nav">
+              <div class="slider-projects-button-prev"></div>
+              <div class="slider-projects-button-next"></div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="blogs top">
+      <div class="blogs__container container">
+        <div class="blogs__column blogs__column_s">
+          <div class="blogs__items">
+            <div class="blogs__item">
+              <div class="blogs__subtitle subtitle">Blogs</div>
+              <div class="blogs__title title">Latest Blogs</div>
+            </div>
+            <a href="#" class="blogs__link link-arrow-white">View all</a>
+          </div>
+        </div>
+        <div class="blogs__column blogs__column_b">
+          <div class="blogs__content">
+            <div class="blogs__card card-blogs">
+              <div class="card-blogs__value">
+                <span class="card-blogs__date">April 16, 2021</span>
+                <span class="card-blogs__time">6 mins</span>
+              </div>
+              <p><a href="#" class="card-blogs__title">Design tips for designers, that cover everything you need</a></p>
+              <p><a href="#" class="card-blogs__link link-arrow-white">Read the article</a></p>
+            </div>
+            <div class="blogs__card card-blogs">
+              <div class="card-blogs__value">
+                <span class="card-blogs__date">April 16, 2021</span>
+                <span class="card-blogs__time">5 mins</span>
+              </div>
+              <p><a href="#" class="card-blogs__title">How to build rapport with your web design clients</a></p>
+              <p><a href="#" class="card-blogs__link link-arrow-white">Read the article</a></p>
+            </div>
+            <div class="blogs__card card-blogs">
+              <div class="card-blogs__value">
+                <span class="card-blogs__date">April 16, 2021</span>
+                <span class="card-blogs__time">5 mins</span>
+              </div>
+              <p><a href="#" class="card-blogs__title">Top 6 free website mockup tools 2021</a></p>
+              <p><a href="#" class="card-blogs__link link-arrow-white">Read the article</a></p>
+            </div>
+            <div class="blogs__card card-blogs">
+              <div class="card-blogs__value">
+                <span class="card-blogs__date">April 16, 2021</span>
+                <span class="card-blogs__time">7 mins</span>
+              </div>
+              <p><a href="#" class="card-blogs__title">Logo design trends to avoid in 2021</a></p>
+              <p><a href="#" class="card-blogs__link link-arrow-white">Read the article</a></p>
+            </div>
+            <div class="blogs__card card-blogs">
+              <div class="card-blogs__value">
+                <span class="card-blogs__date">April 16, 2021</span>
+                <span class="card-blogs__time">7 mins</span>
+              </div>
+              <p><a href="#" class="card-blogs__title">22 best UI design tools</a></p>
+              <p><a href="#" class="card-blogs__link link-arrow-white">Read the article</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="about top">
+      <div class="about__container container">
+        <div class="about__top about-top">
+          <div class="about-top__items">
+            <div class="about-top__subtitle subtitle">Product Designer</div>
+            <div class="about-top__title title">That's me!</div>
+          </div>
+          <div class="about-top__content">
+            <div class="about-top__text">Over the past 12 years, I've worked with a diverse range of clients, from
+              startups to Fortune 500 companies. I love crafting interfaces that delight users and help businesses grow.
+            </div>
+          </div>
+        </div>
+        <div class="about__body">
+          <a data-fancybox="gallery" href="img/about/01.jpg" class="about__image about__image_m ibg">
+            <img class="rounded" src="img/about/01.jpg" />
+          </a>
+          <a data-fancybox="gallery" href="img/about/02.jpg" class="about__image about__image_b ibg">
+            <img class="rounded" src="img/about/02.jpg" />
+          </a>
+          <a data-fancybox="gallery" href="img/about/03.jpg" class="about__image about__image_s ibg">
+            <img class="rounded" src="img/about/03.jpg" />
+          </a>
+          <a data-fancybox="gallery" href="img/about/04.jpg" class="about__image about__image_s ibg">
+            <img class="rounded" src="img/about/04.jpg" />
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <div class="experience top">
+      <div class="experience__container container">
+        <div class="experience__column">
+          <div class="experience__title experience__title_edu">Education</div>
+          <div class="experience__body">
+            <div class="experience__card card-experience">
+              <div class="card-experience__items">
+                <a href="#" class="card-experience__top">
+                  <div class="card-experience__title">Stanford University</div>
+                  <div class="card-experience__arrow"></div>
+                </a>
+                <div class="card-experience__bottom">
+                  <div class="card-experience__subtitle">MSc (Human Computer Interaction)</div>
+                  <div class="card-experience__date">2013-2015</div>
+                </div>
+              </div>
+            </div>
+            <div class="experience__card card-experience">
+              <div class="card-experience__items">
+                <a href="#" class="card-experience__top">
+                  <div class="card-experience__title">MIT Summer School</div>
+                  <div class="card-experience__arrow"></div>
+                </a>
+                <div class="card-experience__bottom">
+                  <div class="card-experience__subtitle">UX Training Bootcamp</div>
+                  <div class="card-experience__date">2013-2014</div>
+                </div>
+              </div>
+            </div>
+            <div class="experience__card card-experience">
+              <div class="card-experience__items">
+                <a href="#" class="card-experience__top">
+                  <div class="card-experience__title">California State University</div>
+                  <div class="card-experience__arrow"></div>
+                </a>
+                <div class="card-experience__bottom">
+                  <div class="card-experience__subtitle">BSc in Software Engineering</div>
+                  <div class="card-experience__date">2009-2012</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="experience__column">
+          <div class="experience__title experience__title_exp">Work Experience</div>
+          <div class="experience__body">
+            <div class="experience__card card-experience">
+              <div class="card-experience__image">
+                <img src="img/experience/01.png" alt="">
+              </div>
+              <div class="card-experience__items">
+                <a href="#" class="card-experience__top">
+                  <div class="card-experience__title">SpaceFleet</div>
+                  <div class="card-experience__arrow"></div>
+                </a>
+                <div class="card-experience__bottom">
+                  <div class="card-experience__subtitle">Senior Product Designer</div>
+                  <div class="card-experience__date">April 2019 - Current</div>
+                </div>
+              </div>
+            </div>
+            <div class="experience__card card-experience">
+              <div class="card-experience__image">
+                <img src="img/experience/02.png" alt="">
+              </div>
+              <div class="card-experience__items">
+                <a href="#" class="card-experience__top">
+                  <div class="card-experience__title">MusicMash</div>
+                  <div class="card-experience__arrow"></div>
+                </a>
+                <div class="card-experience__bottom">
+                  <div class="card-experience__subtitle">Information Architect</div>
+                  <div class="card-experience__date">April 2016 - May 2017</div>
+                </div>
+              </div>
+            </div>
+            <div class="experience__card card-experience">
+              <div class="card-experience__image">
+                <img src="img/experience/03.png" alt="">
+              </div>
+              <div class="card-experience__items">
+                <a href="#" class="card-experience__top">
+                  <div class="card-experience__title">Kingdom</div>
+                  <div class="card-experience__arrow"></div>
+                </a>
+                <div class="card-experience__bottom">
+                  <div class="card-experience__subtitle">UI Designer</div>
+                  <div class="card-experience__date">April 2016 - May 2017</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="testimonials top">
+      <div class="testimonials__container container">
+        <div class="testimonials__top">
+          <div class="testimonials__subtitle subtitle">Testimonials</div>
+          <div class="testimonials__title title">Word on the street</div>
+        </div>
+        <div class="testimonials__body">
+          <div class="testimonials__slider slider-testimonials">
+            <div class="slider-testimonials__wrapper swiper-wrapper">
+              <div class="slider-testimonials__slide swiper-slide">
+                <div class="slider-testimonials__body">
+                  <div class="slider-testimonials__column">
+                    <div class="slider-testimonials__foto">
+                      <div class="slider-testimonials__image ibg">
+                        <img src="img/testimonials/03.jpg" alt="">
+                      </div>
+                    </div>
+                  </div>
+                  <div class="slider-testimonials__column">
+                    <div class="slider-testimonials__content">
+                      <div class="slider-testimonials__text">Jade helped us build a software so intuitive that it didn't need a walkthrough. He solved complex problems with brilliant design.</div>
+                      <div class="slider-testimonials__items">
+                        <div class="slider-testimonials__name">John Frankin</div>
+                        <div class="slider-testimonials__prof">Founder, Double Bunch</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="slider-testimonials__slide swiper-slide">
+                <div class="slider-testimonials__body">
+                  <div class="slider-testimonials__column">
+                    <div class="slider-testimonials__foto">
+                      <div class="slider-testimonials__image ibg">
+                        <img src="img/testimonials/02.jpg" alt="">
+                      </div>
+                    </div>
+                  </div>
+                  <div class="slider-testimonials__column">
+                    <div class="slider-testimonials__content">
+                      <div class="slider-testimonials__text">Dolor sit amet consectetur adipisicing elit. Odio cum placeat laudantium, eum magni nam!</div>
+                      <div class="slider-testimonials__items">
+                        <div class="slider-testimonials__name">Alan Doe</div>
+                        <div class="slider-testimonials__prof">Postman, Magic five</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="slider-testimonials__slide swiper-slide">
+                <div class="slider-testimonials__body">
+                  <div class="slider-testimonials__column">
+                    <div class="slider-testimonials__foto">
+                      <div class="slider-testimonials__image ibg">
+                        <img src="img/testimonials/01.jpg" alt="">
+                      </div>
+                    </div>
+                  </div>
+                  <div class="slider-testimonials__column">
+                    <div class="slider-testimonials__content">
+                      <div class="slider-testimonials__text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quam earum molestiae ab eveniet adipisci corporis sunt ipsa provident repellendus incidunt.</div>
+                      <div class="slider-testimonials__items">
+                        <div class="slider-testimonials__name">San Nikel</div>
+                        <div class="slider-testimonials__prof">Saund producer, Melon music</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="slider-testimonials__nav">
+              <div class="slider-testimonials-button-prev"></div>
+              <div class="slider-testimonials-button-next"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="faq">
+      <div class="faq__container container">
+        <div class="faq__top">
+          <div class="faq__subtitle subtitle">FAQ</div>
+          <div class="faq__title title">Frequently asked questions</div>
+        </div>
+        <div class="faq__body">
+          <div class="faq__column">
+            <div class="faq__spoller spoller-faq" data-spollers data-one-spoller>
+              <div class="spoller-faq__item">
+                <button class="spoller-faq__title _active" tabindex="-1" type="button" data-spoller>What type of projects do you take on?</button>
+                <div class="spoller-faq__text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur eum reprehenderit, nisi quae molestias quisquam repudiandae. Laboriosam, repellat nam recusandae tempore fuga fugiat, laudantium deserunt, iusto id aut esse tempora.</div>
+              </div>
+              <div class="spoller-faq__item">
+                <button class="spoller-faq__title" tabindex="-1" type="button" data-spoller>What is your hourly rate?</button>
+                <div class="spoller-faq__text">Dolor sit amet consectetur adipisicing elit. Pariatur eum reprehenderit, nisi quae molestias quisquam repudiandae. Laboriosam, repellat nam recusandae tempore fuga fugiat, laudantium deserunt, iusto id aut esse tempora. Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae et mollitia consectetur. Culpa pariatur ipsum, quam molestiae est voluptates animi. Lorem ipsum dolor sit amet consectetur adipisicing elit. In, ea.</div>
+              </div>
+              <div class="spoller-faq__item">
+                <button class="spoller-faq__title" tabindex="-1" type="button" data-spoller>What time-zone do you work in?</button>
+                <div class="spoller-faq__text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur eum reprehenderit, nisi quae molestias quisquam repudiandae.</div>
+              </div>
+              <div class="spoller-faq__item">
+                <button class="spoller-faq__title" tabindex="-1" type="button" data-spoller>What is the typical timeline for a project?</button>
+                <div class="spoller-faq__text">Ipsum dolor sit amet consectetur adipisicing elit. Pariatur eum reprehenderit, nisi quae molestias quisquam repudiandae. Laboriosam, repellat nam recusandae tempore fuga fugiat, laudantium deserunt, iusto id aut esse tempora. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consectetur accusamus voluptate officia placeat voluptatum error, maiores iusto magni autem odio dignissimos earum, enim voluptatem aperiam repudiandae. Veritatis maiores in, eveniet, perferendis nulla labore, architecto quis maxime adipisci exercitationem doloremque totam?</div>
+              </div>
+            </div>
+          </div>
+          <div class="faq__column">
+            <div class="faq__spoller spoller-faq" data-spollers data-one-spoller>
+              <div class="spoller-faq__item">
+                <button class="spoller-faq__title" tabindex="-1" type="button" data-spoller>How do you charge for projects?</button>
+                <div class="spoller-faq__text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur eum reprehenderit, nisi quae molestias quisquam repudiandae. Laboriosam, repellat nam recusandae tempore fuga fugiat, laudantium deserunt, iusto id aut esse tempora. Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam minima praesentium aperiam. Recusandae maiores, rem, soluta, voluptates cumque optio reiciendis corrupti excepturi eum dolor inventore.</div>
+              </div>
+              <div class="spoller-faq__item">
+                <button class="spoller-faq__title" tabindex="-1" type="button" data-spoller>What does your design process look like?</button>
+                <div class="spoller-faq__text">Adipisicing elit. Pariatur eum reprehenderit, nisi quae molestias quisquam repudiandae. Laboriosam, repellat nam recusandae tempore fuga fugiat, laudantium deserunt, iusto id aut esse tempora. Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis accusamus perspiciatis, beatae ducimus inventore cupiditate odio facilis voluptatum minus laboriosam culpa ea corrupti, at quaerat quos nulla tenetur aliquam officiis veritatis eveniet maxime mollitia voluptatibus. Distinctio veritatis harum dolorum sequi quidem vitae? Voluptate, quod doloremque quisquam magnam ab voluptates perspiciatis.</div>
+              </div>
+              <div class="spoller-faq__item">
+                <button class="spoller-faq__title" tabindex="-1" type="button" data-spoller>What metrics do you use to measure success?</button>
+                <div class="spoller-faq__text">Sit amet consectetur adipisicing elit. Pariatur eum reprehenderit, nisi quae molestias quisquam repudiandae. Laboriosam, repellat nam recusandae tempore fuga fugiat, laudantium deserunt, iusto id aut esse tempora.</div>
+              </div>
+              <div class="spoller-faq__item">
+                <button class="spoller-faq__title" tabindex="-1" type="button" data-spoller>What if I need help after the project is complete?</button>
+                <div class="spoller-faq__text">Laboriosam, repellat nam recusandae tempore fuga fugiat, laudantium deserunt, iusto id aut esse tempora.</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- @import "footer.html" -->
+
+  </div>
+  <script src="js/swiper-bundle.min.js"></script>
+  <script src="js/fancybox.umd.js"></script>
+  <script src="js/script.js"></script>
+</body>
+
+</html>
